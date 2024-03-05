@@ -1,0 +1,6 @@
+-user : iduser, usernmae, password
+-produk : idproduk, namaproduk, deskripsi, harga, stok
+-pesanan : idorder, tanggal, iduser, idpelanggan
+-detailpesanan : iddetailorder, idorder, idproduk, qty
+-masuk : idmasuk, idproduk, qty, tanggal
+-pelanggan : idpelanggan, notelp, alamat
